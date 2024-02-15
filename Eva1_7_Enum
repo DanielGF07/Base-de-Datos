@@ -1,0 +1,23 @@
+Eva1_7_Enum
+create table playeras(id int auto_increment key, nombre varchar(50), talla varchar(50), tipo varchar(50)
+insert into playeras(nombre, talla, tipo) values(playerota","L","Polo";
+insert into playeras(nombre, talla, tipo) values("playerototota","Grande","Cuello redondo");
+delete from playeras;
+desc playeras;
+| name    | size   || name    | size   |
++---------+--------+
+| t-shirt | medium || name    | size   |
++---------+--------+
+alter table playeras
+modify talla enum("xs","s2,"l","xl","xxl");
+
+
+
+insert into playeras(nombre, talla, tipo) values(playerota","L","Polo";
+insert into playeras(nombre, talla, tipo) values("playerototota","Grande","Cuello redondo");
+
+
+alter table 
+
+
+
